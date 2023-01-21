@@ -7,13 +7,13 @@
 }
 body{
     height: 100vh;
-    background:skyblue;
+    background:rgb(135, 235, 178);
 }
 .container{
     width: 40%;
     top: 50%;
     left: 50%;
-    background: yellow;
+    background: rgb(255, 0, 225);
     border-radius: 10px;
     min-width: 450px;
     position: absolute;
@@ -39,7 +39,7 @@ body{
 
 #newtask input:focus{
     outline: none;
-    border-color:  red;
+    border-color:  rgb(255, 140, 0);
 }
 #newtask button{
     position: relative;
@@ -48,7 +48,7 @@ body{
     font-size: 16px;
     background-color:lightgreen;
     border: none;
-    color:  red;
+    color:  redsss;
     cursor: pointer;
     outline: none;
     width: 20%;
